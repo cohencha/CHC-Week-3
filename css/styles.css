@@ -1,6 +1,6 @@
 #map-container {
-  height: 500px;
-  width: 500px;
+  height: 800px;
+  width: 800px;
   backgroundColor: #ccc;
   flex-grow: 1
 }

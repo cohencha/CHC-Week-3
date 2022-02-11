@@ -6,7 +6,8 @@ $.getJSON('/data/SchoolInfo.json', function(SchoolInfo) {
   var map = new mapboxgl.Map({
     container: 'map-container', // HTML container id
     style: 'mapbox://styles/mapbox/dark-v9', // style URL
-    center: [-21.9270884, 64.1436456], // starting position as [lng, lat]
-    zoom: 13
+    center: [-73.9665, 40.7812], // starting position as [lng, lat]
+    zoom: 9,
     });
+
 })
