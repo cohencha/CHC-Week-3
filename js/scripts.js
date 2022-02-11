@@ -10,4 +10,11 @@ $.getJSON('/data/SchoolInfo.json', function(SchoolInfo) {
     zoom: 9,
     });
 
+  SchoolInfo.forEach(function(SchoolInfo) {
+    var mapMarker = new mapboxgl.Marker({
+      .setLngLat([SchoolInfo.longitude, SchoolInfo.latitude])
+      .addTo(map);
+    });
+  })
+
 })
