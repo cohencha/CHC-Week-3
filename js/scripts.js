@@ -7,7 +7,7 @@ $.getJSON('/data/SchoolInfo.json', function(SchoolInfo) {
     container: 'map-container', // HTML container id
     style: 'mapbox://styles/mapbox/dark-v9', // style URL
     center: [-73.9665, 40.7812], // starting position as [lng, lat]
-    zoom: 9,
+    zoom: 10,
     });
 
     var color = 'purple'
