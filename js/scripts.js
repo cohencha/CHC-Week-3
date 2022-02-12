@@ -13,7 +13,9 @@ $.getJSON('/data/SchoolInfo.json', function(SchoolInfo) {
     SchoolInfo.forEach(function(SchoolInfo) {
       var mapMarker = new mapboxgl.Marker()
     .setLngLat([SchoolInfo.longitude, SchoolInfo.latitude])
+    .setPopup(new mapboxgl.Popup().setHTML(`
+        <p>${SchoolInfo.SchoolName}</p>
+      `))
     .addTo(map);
     })
-
-  })
+})
