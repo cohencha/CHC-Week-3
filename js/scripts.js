@@ -1,4 +1,4 @@
-$.getJSON('/data/schoolinfo.json', function(SchoolInfo) {
+$.getJSON('data/schoolinfo.json', function(SchoolInfo) {
   console.log(SchoolInfo)
 
   mapboxgl.accessToken = 'pk.eyJ1IjoiY29oZW5jaGEiLCJhIjoiY2t6aG5vNWc4M2M5ZzJvcHEyeXdlaG91eSJ9.9pc4iJCoEFwGMj5aLOJ1Eg' ;
