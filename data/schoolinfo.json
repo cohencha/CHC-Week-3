@@ -1,0 +1,66 @@
+[
+  {
+    "SchoolName": "The Bronx High School of Science",
+    "longitude": -73.8911437,
+    "latitude": 40.8783912,
+    "Borough": "the Bronx",
+    "YearFound": 1938,
+    "Enrollment2020": 2983
+  },
+  {
+    "SchoolName": "The Brooklyn Latin School",
+    "longitude": -73.9461959,
+    "latitude": 40.7097999,
+    "Borough": "Brooklyn",
+    "YearFound": 2006,
+    "Enrollment2020": 787
+  },
+  {
+    "SchoolName": "Brooklyn Technical High School",
+    "longitude": -73.9789238,
+    "latitude": 40.6890878,
+    "Borough": "Brooklyn",
+    "YearFound": 1922,
+    "Enrollment2020": 6043
+  },
+  {
+    "SchoolName": "High School for Mathematics, Science and Engineering at City College of New York",
+    "longitude": -73.9512276,
+    "latitude": 40.8214739,
+    "Borough": "Manhattan",
+    "YearFound": 2002,
+    "Enrollment2020": 492
+  },
+  {
+    "SchoolName": "High School of American Studies at Lehman College",
+    "longitude": -73.897265,
+    "latitude": 40.8746796,
+    "Borough": "the Bronx",
+    "YearFound": 2002,
+    "Enrollment2020": 411
+  },
+  {
+    "SchoolName": "Queens High School for the Sciences at York College",
+    "longitude": -73.800504,
+    "latitude": 40.7009286,
+    "Borough": "Queens",
+    "YearFound": 2002,
+    "Enrollment2020": 475
+  },
+  {
+    "SchoolName": "Staten Island Technical High School",
+    "longitude": -74.1192234,
+    "latitude": 40.5679227,
+    "Borough": "Staten Island",
+    "YearFound": 1988,
+    "Enrollment2020": 1332
+  },
+  {
+    "SchoolName": "Stuyvesant High School",
+    "longitude": -74.0160309,
+    "latitude": 40.7178149,
+    "Borough": "Manhattan",
+    "YearFound": 1904,
+    "Enrollment2020": 3384
+  }
+]
